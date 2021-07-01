@@ -5,9 +5,6 @@ This project contains two main .v (verilog) files using which the project runs:
 1. barrel_shift_16bit.v : Main Verilog Code
 2. tb_barrel_shift_16bit.v : Test-bench File
 
-The pyt.c file is created so that we can automate the test cases to the project.
-It creates the output file named a.out
-
 The final outputs are shown below:
 1. Console Output:
 
