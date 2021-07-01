@@ -1,5 +1,5 @@
 # 16bit_barrel_shifter
-Project to build a 16-bit Barrel Shifter using Verilog.
+Project to Design and Implement a 16-bit Barrel Shifter using Verilog.
 -------------------------------------------------------------------------------------
 This project contains two main .v (verilog) files using which the project runs:
 1. barrel_shift_16bit.v : Main Verilog Code
